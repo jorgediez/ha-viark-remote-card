@@ -4,6 +4,10 @@
 [Viark Satellite Receiver integration](https://github.com/jorgediez/ha-viark),
 from version 1.4.0.** This repository is archived and gets no more updates.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jorgediez/ha-viark-remote-card/main/images/screenshot.png" alt="Viark Remote Card" width="320">
+</p>
+
 Home Assistant's community store (HACS) lists a card that only works with one
 integration as part of that integration, so the card moved there, with its
 history. Installing the integration installs the card, and the integration loads
